@@ -1,0 +1,11 @@
+.hero {
+  background-image: url('https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2015/07/rick-morty.jpg');
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+}
+.hero-content {
+  background: rgba(0, 0, 0, 0.5);
+  padding: 30px;
+  border-radius: 10px;
+}
